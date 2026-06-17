@@ -2,7 +2,7 @@
 
 > Cybersecurity · Redes · Blue Team · SOC · SIEM · EDR · Windows · Linux 
 
-Cybersecurity analyst e entusiasta de DEV, baseado em Farroupilha — RS.
+Cybersecurity/SOC analyst e entusiasta de DEV, baseado em Farroupilha — RS.
 Foco em projetos que combinam automação, monitoramento e defesa de sistemas.
 
 ---
@@ -12,7 +12,7 @@ Foco em projetos que combinam automação, monitoramento e defesa de sistemas.
 | Categoria | Tecnologias |
 |---|---|
 | Linguagens | Python · Shell · HTML/CSS · SQL |
-| Segurança | Análise de CVE · Wazuh SIEM · Hardening Linux · Engenharia reversa |
+| Segurança | Análise de CVE · Wazuh SIEM · Hardening Linux · Engenharia reversa · SOC|
 | Redes | TCP/IP · Firewalls · VPN · Análise de tráfego |
 | Ferramentas | Git · ffmpeg · Twilio API · aiohttp |
 
