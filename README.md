@@ -40,6 +40,11 @@ Servidor de streaming de vídeo local — aiohttp + Jinja2, suporte a HTTP Range
 player web com controles customizados, biblioteca de séries e filmes.
 `Python` `aiohttp` `HTML/CSS/JS` `Streaming`
 
+### 📚 [ipam-concurso](https://github.com/pedro-lucas-melo/ipam-concurso)
+Apostila interativa, flashcards e simulado cronometrado para o concurso IPAM Caxias do Sul —
+Técnico em Informática · FUNDATEC 2026. HTML puro, sem dependências.
+`HTML` `CSS` `JavaScript` `Concurso` `Estudos`
+
 ---
 
 ## 📊 Plataformas
