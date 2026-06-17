@@ -1,8 +1,8 @@
 # Olá, sou Pedro Melo 👋
 
-> Segurança ofensiva · Automação Python · CVE research · SIEM
+> Cybersecurity · Redes · Blue Team · SOC · SIEM · EDR · Windows · Linux 
 
-Desenvolvedor e entusiasta de segurança da informação, baseado em Farroupilha — RS.
+Cybersecurity analyst e entusiasta de DEV, baseado em Farroupilha — RS.
 Foco em projetos que combinam automação, monitoramento e defesa de sistemas.
 
 ---
