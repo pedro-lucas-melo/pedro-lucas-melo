@@ -14,7 +14,7 @@ Foco em projetos que combinam automação, monitoramento e defesa de sistemas.
 | Linguagens | Python · Shell · HTML/CSS · SQL |
 | Segurança | Análise de CVE · Wazuh SIEM · Hardening Linux · Engenharia reversa · SOC|
 | Redes | TCP/IP · Firewalls · VPN · Análise de tráfego |
-| Ferramentas | Git · ffmpeg · Twilio API · aiohttp |
+| Ferramentas | Git · Claude · API · VS Code |
 
 ---
 
