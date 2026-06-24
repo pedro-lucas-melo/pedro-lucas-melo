@@ -38,7 +38,7 @@ Envia alertas de segurança formatados com severidade, agente, IP e timestamp em
 ### 🎬 [Project-Streaming](https://github.com/pedro-lucas-melo/Project-Streaming)
 Servidor de streaming de vídeo local — aiohttp + Jinja2, suporte a HTTP Range Requests,
 player web com controles customizados, biblioteca de séries e filmes.
-`Python` `aiohttp` `HTML/CSS/JS` `Streaming`
+`Python` `aiohttp` `HTML/CSS/JS` `Streaming` `SQL` `TelegramBot` `TMDB API`
 
 ### 📚 [ipam-concurso](https://github.com/pedro-lucas-melo/ipam-concurso)
 Apostila interativa, flashcards e simulado cronometrado para o concurso IPAM Caxias do Sul —
